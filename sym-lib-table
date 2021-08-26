@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name TPS54331)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/TPS54331.lib")(options "")(descr ""))
-  (lib (name MLT-7525)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/MLT-7525.lib")(options "")(descr ""))
-)
