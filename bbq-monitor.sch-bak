@@ -759,6 +759,17 @@ F 3 "~" H 1200 7100 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
+L Mechanical:MountingHole H3
+U 1 1 61BE5D55
+P 1200 6650
+F 0 "H3" V 1300 6696 50  0000 L CNN
+F 1 "BR" V 1300 6500 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.2mm_M3_Pad_Via" H 1200 6650 50  0001 C CNN
+F 3 "~" H 1200 6650 50  0001 C CNN
+	1    1200 6650
+	0    -1   -1   0   
+$EndComp
+$Comp
 L Regulator_Switching:TPS62132 U2
 U 1 1 61C3840D
 P 3700 1350
