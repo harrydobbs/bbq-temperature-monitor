@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name Sensor_Temperature)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/Sensor_Temperature.lib")(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/power.lib")(options "")(descr ""))
+  (lib (name Dobbs)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/Dobbs.lib")(options "")(descr ""))
+  (lib (name TPS54331)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/TPS54331.lib")(options "")(descr ""))
+  (lib (name MLT-7525)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/MLT-7525.lib")(options "")(descr ""))
+  (lib (name MAX6675)(type Legacy)(uri "${KIPRJMOD}/hardware libraries/MAX6675.lib")(options "")(descr ""))
+)
