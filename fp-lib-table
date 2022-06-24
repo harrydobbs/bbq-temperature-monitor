@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "hardware libraries")(type KiCad)(uri "${KIPRJMOD}/hardware libraries")(options "")(descr ""))
+  (lib (name rs-components)(type KiCad)(uri "${KIPRJMOD}/hardware libraries/rs-components.pretty")(options "")(descr ""))
 )

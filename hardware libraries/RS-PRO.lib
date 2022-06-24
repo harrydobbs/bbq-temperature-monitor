@@ -1,0 +1,17 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 2-Pin_5mm_Pitch_Terminal_Block
+#
+DEF 2-Pin_5mm_Pitch_Terminal_Block U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "2-Pin_5mm_Pitch_Terminal_Block" -50 450 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+X ~ ~ 0 150 100 L 50 50 1 1 I
+X ~ ~ 0 300 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library
